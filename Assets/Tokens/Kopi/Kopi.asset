@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56bfaa6641535b642bc1b478c9d3c065, type: 3}
+  m_Name: Kopi
+  m_EditorClassIdentifier: 
+  ItemID: KopiPagarAlam
+  TargetInventoryName: RetroInventory
+  Usable: 0
+  Equippable: 0
+  Quantity: 1
+  ItemName: Kopi Pagar Alam
+  ShortDescription: 'Robusta Petik Merah
+
+'
+  Description: 'Located at the foot of Dempo Volcano, which stands 100-3100 AMSL
+    in South Sumatra, the coffee beans from Pagaralam and the people are living in
+    harmony. You can find people dry the coffee beans on their porches along the
+    roads in the villages. Pagaralam has become one of the top-producing regions
+    of premium quality green beans in Sumatra and many farmers will sell the crops
+    in Bandar Lampung,  a coffee mecca in the island of Sumatra.
+
+
+
+    Most of the
+    farmers grow robusta coffee in Pagaralam. The coffee has strong acidity and bold
+    body which is perfect if you looking for a mixture for your cold brew or blend. '
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 21300000, guid: 7fc5a24a411ba3c4b869502ada4288a6, type: 3}
+  Prefab: {fileID: 3054577597169868928, guid: 595f67c69752a5048a4eeb83850d492a, type: 3}
+  SpawnShape: 1
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 10
+  ItemClass: 0
+  TargetEquipmentInventoryName: 
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1

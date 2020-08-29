@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56bfaa6641535b642bc1b478c9d3c065, type: 3}
+  m_Name: Sasando
+  m_EditorClassIdentifier: 
+  ItemID: Sasando
+  TargetInventoryName: RetroInventory
+  Usable: 0
+  Equippable: 0
+  Quantity: 1
+  ItemName: Sasando
+  ShortDescription: Let's sing!
+  Description: The sasando, also called sasandu from Sandu or Sanu, is a tube zither,
+    a harp-like traditional music string instrument native to Rote Island of East
+    Nusa Tenggara, Indonesia. The player's fingers then pluck the strings in a fashion
+    similar to playing a harp or kacapi.
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 21300000, guid: 430ac3634657d1a438e603ce7bcf6b17, type: 3}
+  Prefab: {fileID: 3277250731032960730, guid: b428a767b93a9b8409274bf181239f21, type: 3}
+  SpawnShape: 1
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 10
+  ItemClass: 0
+  TargetEquipmentInventoryName: 
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1

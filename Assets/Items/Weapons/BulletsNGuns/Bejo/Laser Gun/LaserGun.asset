@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16f005fbcfc61684c82bf819bce9d63b, type: 3}
+  m_Name: LaserGun
+  m_EditorClassIdentifier: 
+  ItemID: BejoLaserGun
+  TargetInventoryName: RetroInventory
+  Usable: 0
+  Equippable: 1
+  Quantity: 1
+  ItemName: LaserGun
+  ShortDescription: Pew pew pew
+  Description: 'Fast kill and zero recoil. Light saber is optional
+
+'
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 7315626903549730027, guid: 7d51de9f3a48d6f4e8aba32cf11e4bf3, type: 3}
+  Prefab: {fileID: 419226435742970989, guid: e7834c9bbac6f644a9f808d8d6047271, type: 3}
+  SpawnShape: 1
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 1
+  ItemClass: 2
+  TargetEquipmentInventoryName: RetroWeaponInventory
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1
+  EquippableWeapon: {fileID: 419226435742970961, guid: e7834c9bbac6f644a9f808d8d6047271,
+    type: 3}
+  AutoEquipMode: 0

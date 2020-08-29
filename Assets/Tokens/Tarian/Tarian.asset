@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56bfaa6641535b642bc1b478c9d3c065, type: 3}
+  m_Name: Tarian
+  m_EditorClassIdentifier: 
+  ItemID: Tarian
+  TargetInventoryName: RetroInventory
+  Usable: 0
+  Equippable: 0
+  Quantity: 1
+  ItemName: Selamat Datang Dance
+  ShortDescription: We dance welcoming you
+  Description: Dance for welcoming the tourists as guest when the tourist arrived
+    in the land of Papua. It shows gratitude to the ancestors and and shows happiness
+    from the society.
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 21300000, guid: f919dbb41b5e53e4392d054437ad77d3, type: 3}
+  Prefab: {fileID: 7890064505679156243, guid: 49b7c41f1d9fdbc4c9fb3b75ecde35fa, type: 3}
+  SpawnShape: 1
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 10
+  ItemClass: 0
+  TargetEquipmentInventoryName: 
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1

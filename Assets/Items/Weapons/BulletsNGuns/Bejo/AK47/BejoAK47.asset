@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16f005fbcfc61684c82bf819bce9d63b, type: 3}
+  m_Name: BejoAK47
+  m_EditorClassIdentifier: 
+  ItemID: BejoAK47
+  TargetInventoryName: RetroInventory
+  Usable: 0
+  Equippable: 1
+  Quantity: 1
+  ItemName: AK47
+  ShortDescription: A deadly icon
+  Description: History of an icon invented by Mikhail Kalashnikov. When you pull
+    this gun out in class, everybody just wants to be your friend.
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 3129941438653238127, guid: c9266f53940265a4b84a37af6211f174, type: 3}
+  Prefab: {fileID: 8867800948385208557, guid: 6b5c231c181dc5a4a902e9dd80bc2d8d, type: 3}
+  SpawnShape: 1
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 1
+  ItemClass: 2
+  TargetEquipmentInventoryName: RetroWeaponInventory
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1
+  EquippableWeapon: {fileID: 8867800948385208561, guid: 6b5c231c181dc5a4a902e9dd80bc2d8d,
+    type: 3}
+  AutoEquipMode: 0

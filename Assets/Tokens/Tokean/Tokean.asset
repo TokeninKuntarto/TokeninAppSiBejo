@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56bfaa6641535b642bc1b478c9d3c065, type: 3}
+  m_Name: Tokean
+  m_EditorClassIdentifier: 
+  ItemID: Tokean
+  TargetInventoryName: RetroInventory
+  Usable: 0
+  Equippable: 0
+  Quantity: 1
+  ItemName: Tokean Macaque
+  ShortDescription: We eat banana every day
+  Description: 'Tonkean Macaques are rather ape-like in appearance, and males are
+    slightly larger than females. A handful of matriarchs enforces a relatively fluid
+    and lenient pecking order. Tonkean macaques take effort in maintaining harmony
+    in the group and practice conflict resolution to a great degree. Despite being
+    pacifists, matrilines remain rigid and unchanging, even if they''re relaxed compared
+    to other macaque species. '
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 21300000, guid: 5796d9dfa2ac1664aa3c45e0aa8ac95b, type: 3}
+  Prefab: {fileID: 7413369151904259829, guid: a9cee0bc3c9d9b74686b375cb626ea14, type: 3}
+  SpawnShape: 1
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 10
+  ItemClass: 0
+  TargetEquipmentInventoryName: 
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1
